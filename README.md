@@ -20,12 +20,13 @@ Este projeto realiza a análise de vendas dos últimos 90 dias utilizando dados 
 
 ## 📁 Estrutura do projeto
 
+```plaintext
 projeto-cashback-python/
 │── Cashback.ipynb # Notebook principal com toda a automação
 │── Cashback.xlsx # Arquivo com regras de cashback
 │── Clientes e Cashback.xlsx # Arquivo gerado apos automação
 │── README.md # Este arquivo
-
+```
 
 ## 📊 Exemplo de regra no Excel  
 
