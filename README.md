@@ -47,5 +47,5 @@ Um arquivo Excel com o nome do cliente, subcategoria e valor de cashback a receb
 
 Cássio Gigliotti  
 
-🔗 [Meu portfólio](https://app.xperiun.com/in/cassio-gigliotti)  
+🔗 [Meu portfólio de Power BI](https://app.xperiun.com/in/cassio-gigliotti)  
 🔗 [LinkedIn](https://www.linkedin.com/in/cassio-gigliotti/)  
